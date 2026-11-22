@@ -1,0 +1,11 @@
+{
+  "org": "BurntSushi",
+  "repo": "termcolor",
+  "versions": [
+    {
+      "commit": "224c903a46a7204dea5beaa1120491a286255e29",
+      "tag": "wincolor-1.0.2",
+      "parsed_at": "2026-11-22T12:23:30.451163+00:00"
+    }
+  ]
+}
